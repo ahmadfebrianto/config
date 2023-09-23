@@ -1,0 +1,5 @@
+add_newline = false
+
+[shell]
+disabled = false
+powershell_indicator = 'PS'
